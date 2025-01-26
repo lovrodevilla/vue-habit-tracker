@@ -4,13 +4,13 @@ Aplikacija se lokalno pokreće (preko github linka):
 -odpakiraj zip i u visual studio code-u otvori folder "vue-habit-tracker-main" (pripazi da uđeš u istoimeni folder unutart tog foldera)
 -u terminal koji je pozicioniran u mapu preuzetog foldera izvrši "npm install"
 -zatim u terminal upiši "npm run dev"
--aplikacija se time pokreće lokalno na portu 5173
+-aplikacija se time pokreće lokalno na portu 3000
 
 Aplikacija se pokreće lokalno (preko zipa):
 -odpakiraj zip i u visual studio code-u otvori folder "vue-habit-tracker-main"
 -u terminal koji je pozicioniran u mapu preuzetog foldera izvrši "npm install"
 -zatim u terminal upiši "npm run dev"
--aplikacija se time pokreće lokalno na portu 5173
+-aplikacija se time pokreće lokalno na portu 3000
 
 
 URL aplikacije: https://vue-habit-tracker.onrender.com
