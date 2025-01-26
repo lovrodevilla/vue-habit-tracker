@@ -6,6 +6,8 @@ Aplikacija se lokalno pokreće:
 -zatim u terminal upiši "npm run dev"
 -aplikacija se time pokreće lokalno na portu 5173
 
+URL aplikacije: https://vue-habit-tracker.onrender.com
+
 1. interpolation/one-way binding - Da, src/components/Home.vue, :20 
    <span>{{ habit.name }} ({{ habit.time }})</span>
 2. two-way binding - Da, src/components/AddHabit.vue, :9, :19
