@@ -1,3 +1,11 @@
+Aplikacija se lokalno pokreće:
+-otvori link projekta na githubu: https://github.com/lovrodevilla/vue-habit-tracker
+-preuzmi zip: klik na padajući izbornik "<> code" i odaberi "Download ZIP"
+-odpakiraj zip i u visual studio code-u otvori folder "vue-habit-tracker-main" (pripazi da uđeš u istoimeni folder unutart tog foldera)
+-u terminal koji je pozicioniran u mapu preuzetog foldera izvrši "npm install"
+-zatim u terminal upiši "npm run dev"
+-aplikacija se time pokreće lokalno na portu 5173
+
 1. interpolation/one-way binding - Da, src/components/Home.vue, :20 
    <span>{{ habit.name }} ({{ habit.time }})</span>
 2. two-way binding - Da, src/components/AddHabit.vue, :9, :19
